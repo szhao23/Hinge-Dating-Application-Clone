@@ -1,0 +1,10 @@
+# Node Dependencies
+node_modules
+/node_modules
+node_modules/
+
+# Priviate Environment Variables
+.env
+
+# Desktop Services Store, only for MacOS
+.DS_Store
